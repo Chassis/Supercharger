@@ -1,0 +1,3 @@
+[submodule "plugins/wordpress-seo"]
+	path = plugins/wordpress-seo
+	url = https://github.com/Yoast/wordpress-seo.git
