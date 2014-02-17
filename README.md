@@ -4,7 +4,7 @@ This is the base repository for `wp-content` used in Sennza work.
 
 ## Prerequisites
 
-This setup works well with [Sennza Skeleton](https://github.com/sennza/WordPress-Skeleton).
+This setup works well with [Sennza Chassis](https://github.com/sennza/Chassis).
 
 ## Using
 
