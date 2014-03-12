@@ -1,23 +1,23 @@
-# Sennza Base Content
+# Supercharger
 
-This is the base repository for `wp-content` used in Sennza work.
+This is the base repository for `content` used in common WordPress projects.
 
 ## Prerequisites
 
-This setup works well with [Sennza Chassis](https://github.com/sennza/Chassis).
+This setup works well with [Chassis](https://github.com/Chassis/Chassis).
 
 ## Using
 
 ```bash
 # Clone this repo
-git clone --recursive --origin upstream git@github.com:sennza/wp-content.git content
+git clone --recursive --origin upstream git@github.com:Chassis/Supercharger.git content
 # If you forget --recursive:
 # git submodule update --init
 
 cd content
 
 # Add your actual origin
-git remote add origin git@github.com:sennza/myproject.git
+git remote add origin git@github.com:yourorganisation/yourproject.git
 
 # Push for the first time, and set it as default
 git push -u origin master
