@@ -1,3 +1,6 @@
 [submodule "plugins/regenerate-thumbnails"]
 	path = plugins/regenerate-thumbnails
 	url = https://github.com/Viper007Bond/regenerate-thumbnails.git
+[submodule "plugins/wordpress-seo"]
+	path = plugins/wordpress-seo
+	url = git@github.com:wp-plugins/wordpress-seo.git
